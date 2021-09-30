@@ -1,3 +1,8 @@
+/* 2. Using switch case, do the following:
+Store a number between 1-7
+If the number is 1, display a message "Monday", 2 for "Tuesday", 3 for "Wednesday" etc.
+Anything other than 1-7 would default to "Invalid Input"*/ 
+
 package VariablesAndConditionals;
 
 public class DaysOfTheWeek {
